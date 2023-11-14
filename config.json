@@ -2,7 +2,7 @@
   "startKey": "s",
   "stopKey": "t",
   "pauseKey": "p",
-  "mouseButton": "right",
+  "mouseButton": "left",
   "isCtrlActive": false,
-  "millisecondsBetweenEachClick": 10
+  "millisecondsBetweenEachClick": 1
 }
